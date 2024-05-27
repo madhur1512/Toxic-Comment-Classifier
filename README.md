@@ -1,0 +1,2 @@
+# Toxic Comment Classifier
+ Objective: Build a toxic comment classifier using machine learning.  Dataset: Contains labeled comments with various toxic types.  Machine Learning Techniques: Utilized RNNs, Logistic Regression, and Ensemble Methods.  Data Preprocessing: Includes steps like lowercasing, tokenization, stemming, and vectorization.  Model Training & Testing: Trained models without overfitting or underfitting.  Model Evaluation: Tested models using evaluation metrics like accuracy, loss, recall, and f1-score.
